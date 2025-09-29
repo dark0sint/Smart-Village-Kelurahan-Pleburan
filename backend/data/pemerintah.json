@@ -1,0 +1,36 @@
+// {
+  "struktur": [
+    {
+      "jabatan": "Lurah",
+      "nama": "Drs. H. Ahmad Supardi, M.Si.",
+      "tugas": "Memimpin penyelenggaraan pemerintahan kelurahan"
+    },
+    {
+      "jabatan": "Sekretaris Kelurahan",
+      "nama": "Diana Sari, S.Sos.",
+      "tugas": "Membantu lurah dalam bidang administrasi dan kesekretariatan"
+    },
+    {
+      "jabatan": "Kasi Pemerintahan",
+      "nama": "Bambang Sutrisno, S.Sos.",
+      "tugas": "Menangani urusan pemerintahan dan kependudukan"
+    },
+    {
+      "jabatan": "Kasi Kesejahteraan",
+      "nama": "Rina Wijayanti, S.Sos.",
+      "tugas": "Menangani urusan kesejahteraan masyarakat"
+    },
+    {
+      "jabatan": "Kasi Pelayanan",
+      "nama": "Hendrik Setiawan, S.Sos.",
+      "tugas": "Menangani urusan pelayanan umum"
+    }
+  ],
+  "visi": "Mewujudkan Kelurahan Pleburan yang maju, mandiri, dan sejahtera melalui pelayanan publik yang prima",
+  "misi": [
+    "Meningkatkan kualitas pelayanan publik berbasis digital",
+    "Memberdayakan masyarakat melalui berbagai program kesejahteraan",
+    "Menjaga ketertiban dan keamanan lingkungan",
+    "Meningkatkan infrastruktur kelurahan yang modern dan berkelanjutan"
+  ]
+}
