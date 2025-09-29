@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nama": "KTP Elektronik",
+    "deskripsi": "Pengurusan Kartu Tanda Penduduk Elektronik",
+    "persyaratan": ["Foto copy KK", "Foto 4x6", "Surat pengantar RT/RW"]
+  },
+  {
+    "id": 2,
+    "nama": "Kartu Keluarga",
+    "deskripsi": "Pembuatan Kartu Keluarga baru",
+    "persyaratan": ["Surat nikah", "Akta kelahiran anak", "Surat pengantar RT/RW"]
+  },
+  {
+    "id": 3,
+    "nama": "Akta Kelahiran",
+    "deskripsi": "Pembuatan Akta Kelahiran",
+    "persyaratan": ["Surat keterangan lahir dari bidan/rumah sakit", "KK orang tua", "KTP orang tua"]
+  },
+  {
+    "id": 4,
+    "nama": "Surat Keterangan Tidak Mampu",
+    "deskripsi": "Pembuatan Surat Keterangan Tidak Mampu",
+    "persyaratan": ["Foto copy KK", "Foto copy KTP", "Surat pengantar RT/RW"]
+  }
+]
